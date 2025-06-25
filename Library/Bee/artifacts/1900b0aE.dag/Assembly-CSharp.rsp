@@ -406,6 +406,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Shaders/ShadersBackroom/BasicPostProcess.cs"
+"Assets/Shaders/ShadersBackroom/InvertNormals.cs"
 "Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistancePostProcess1.cs"
 -langversion:9.0
 /deterministic
