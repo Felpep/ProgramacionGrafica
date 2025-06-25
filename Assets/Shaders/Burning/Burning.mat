@@ -45,7 +45,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Burn: 0.92
+    - _Burn: 0.68
     - _DissolveAmount: 0.5
     - _DivideAmount: 1.1
     - _Float0: 1
