@@ -408,6 +408,8 @@
 "Assets/Shaders/ShadersBackroom/BasicPostProcess.cs"
 "Assets/Shaders/ShadersBackroom/InvertNormals.cs"
 "Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistancePostProcess1.cs"
+"Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceShaderPPSSettings.cs"
+"Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceStackShaderPPSSettings.cs"
 -langversion:9.0
 /deterministic
 /optimize+

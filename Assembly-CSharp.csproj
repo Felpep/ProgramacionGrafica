@@ -64,6 +64,8 @@
     <Compile Include="Assets\Shaders\ShadersBackroom\PostProcesoDistancia\DistancePostProcess1.cs" />
     <Compile Include="Assets\Shaders\ShadersBackroom\InvertNormals.cs" />
     <Compile Include="Assets\Shaders\ShadersBackroom\BasicPostProcess.cs" />
+    <Compile Include="Assets\Shaders\ShadersBackroom\PostProcesoDistancia\DistanceShaderPPSSettings.cs" />
+    <Compile Include="Assets\Shaders\ShadersBackroom\PostProcesoDistancia\DistanceStackShaderPPSSettings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Shaders\Hologram\Hologram.shader" />
@@ -85,6 +87,7 @@
     <None Include="Assets\Shaders\Parallax\ParallaxOclussion 1.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\VertexColor 3.shader" />
     <None Include="Assets\Shaders\SpaceUV\ScreenSpaceUV.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\PostProcesoDistancia\DistanceStackShader.shader" />
     <None Include="Assets\Shaders\Parallax\Parallax.shader" />
     <None Include="Assets\Shaders\Distortion\Distortion.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\Esferaespacial\ScreenSpaceUV.shader" />

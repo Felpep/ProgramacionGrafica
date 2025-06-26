@@ -118,7 +118,7 @@ Shader "DistanceShader"
 }
 /*ASEBEGIN
 Version=18900
-0;464.8;1217.4;305.2;1483.893;205.9067;1.591365;True;False
+0;517.6;1218.2;252.4;2716.743;275.5901;3.079531;True;False
 Node;AmplifyShaderEditor.RangedFloatNode;4;-896.2523,165.6487;Inherit;False;Property;_Intensity;Intensity;0;0;Create;True;0;0;0;False;0;False;0;0;0;0;0;1;FLOAT;0
 Node;AmplifyShaderEditor.ScreenDepthNode;2;-923.0564,91.03613;Inherit;False;0;True;1;0;FLOAT4;0,0,0,0;False;1;FLOAT;0
 Node;AmplifyShaderEditor.SimpleDivideOpNode;5;-664.9585,110.318;Inherit;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0
@@ -139,4 +139,4 @@ WireConnection;11;1;10;0
 WireConnection;11;2;12;0
 WireConnection;0;0;11;0
 ASEEND*/
-//CHKSM=AAF1903D9B537A57C883ECF992068194BA60A20D
+//CHKSM=33AE22DF4CCDF5B12E284B17031806A54D8110AF
