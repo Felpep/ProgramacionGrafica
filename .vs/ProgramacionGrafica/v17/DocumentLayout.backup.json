@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\teleport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\proyectos de unity\\programaciongrafica\\assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\shaders\\shadersbackroom\\invertnormals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\invertnormals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\valen\\player\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
               "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
               "RelativeToolTip": "Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T19:26:07.31Z",
               "EditorCaption": ""
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Teleport.cs",
               "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Teleport.cs",
               "RelativeDocumentMoniker": "Assets\\Teleport.cs",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Assets\\Teleport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:54:51.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T16:54:51.966Z"
             },
             {
               "$type": "Document",
@@ -92,15 +91,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BurnController.cs",
               "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\BurnController.cs",
               "RelativeDocumentMoniker": "Assets\\BurnController.cs",
               "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\BurnController.cs",
               "RelativeToolTip": "Assets\\BurnController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T15:51:02.111Z"
+              "WhenOpened": "2025-06-26T15:51:02.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InvertNormals.cs",
               "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
