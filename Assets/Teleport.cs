@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class Teleport : MonoBehaviour
 {
@@ -8,5 +9,6 @@ public class Teleport : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         player.position = goal.position;
+        Debug.Log("Entro");
     }
 }

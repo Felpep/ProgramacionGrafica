@@ -412,6 +412,7 @@
 "Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistancePostProcess1.cs"
 "Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceShaderPPSSettings.cs"
 "Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceStackShaderPPSSettings.cs"
+"Assets/Shaders/ShadersBackroom/Teleport2.cs"
 "Assets/Teleport.cs"
 "Assets/Valen/Player/FPSCamera.cs"
 "Assets/Valen/Player/PlayerController.cs"
