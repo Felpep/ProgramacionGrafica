@@ -23,11 +23,23 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 7407160caff9b8f4182d03a73b7016a0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 7407160caff9b8f4182d03a73b7016a0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TextureSample0:
         m_Texture: {fileID: 2800000, guid: 7407160caff9b8f4182d03a73b7016a0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: c246a0489effb7648a684aa9edda84f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
         m_Texture: {fileID: 2800000, guid: c246a0489effb7648a684aa9edda84f9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -37,9 +49,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Normal: 0.05
+    - _Float0: 0.01
+    - _Normal: 1
+    - _Normal1: 0.01
+    - _Scale: 0.01
+    - _Scale1: 0.01
     - _Smootthless: 0
     - __dirty: 0
-    m_Colors: []
+    m_Colors:
+    - _Color1: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

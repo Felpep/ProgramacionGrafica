@@ -43,7 +43,7 @@ Material:
     - _SpeedFlowMap: 0
     - _Tiling: 2.76
     - _UVFloat: 0.22
-    - __dirty: 0
+    - __dirty: 1
     m_Colors:
     - _Speed: {r: 0.1, g: 0.1, b: 0, a: 0}
   m_BuildTextureStacks: []

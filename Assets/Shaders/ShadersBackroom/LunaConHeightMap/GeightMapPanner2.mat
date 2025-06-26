@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _HeightMap:
-        m_Texture: {fileID: 2800000, guid: d92f42e3e11a46d47a8a30e0a6556d95, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7970dc61d51704f44ae8c63b0de0288d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -33,10 +33,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _EdgeLength: 15
-    - _Float0: 1.27
+    - _EdgeLength: 20
+    - _Float0: 0.14
     - __dirty: 0
     m_Colors:
-    - _Color0: {r: 0.20356965, g: 1, b: 0, a: 0}
+    - _Color0: {r: 0.20356962, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
