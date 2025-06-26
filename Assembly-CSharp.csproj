@@ -85,6 +85,7 @@
     <None Include="Assets\Shaders\Parallax\Parallax.shader" />
     <None Include="Assets\Shaders\Distortion\Distortion.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\Esferaespacial\ScreenSpaceUV.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\LunaConHeightMap\NormalHeightMap.shader" />
     <None Include="Assets\Shaders\ToonLighting\ToonLighting.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\ParedConSangre\WorldSpaceUV.shader" />
     <None Include="Assets\Shaders\HeightMap\VertexColor.shader" />
