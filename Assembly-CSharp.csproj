@@ -70,9 +70,11 @@
     <None Include="Assets\Shaders\ShadersBackroom\ParedFlechaBackroom.shader" />
     <None Include="Assets\Shaders\FirstMaterial\FirstShader.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\LucesTecho\LucesTechoBackroom.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\VertexColor 2.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\PisoVidrio\Distortion.shader" />
     <None Include="Assets\Shaders\Parallax\ParallaxOclussion.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\VertexColor.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\VertexColor 1.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\ParedBackrooms.shader" />
     <None Include="Assets\Shaders\HeightMap\NormalHeightMap.shader" />
     <None Include="Assets\Shaders\Hologram\LAURA\Aura1.shader" />
@@ -81,6 +83,7 @@
     <None Include="Assets\Shaders\ShadersBackroom\PostProcesoDistancia\DistanceShader.shader" />
     <None Include="Assets\Shaders\HeightMap\HeightMap.shader" />
     <None Include="Assets\Shaders\Parallax\ParallaxOclussion 1.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\VertexColor 3.shader" />
     <None Include="Assets\Shaders\SpaceUV\ScreenSpaceUV.shader" />
     <None Include="Assets\Shaders\Parallax\Parallax.shader" />
     <None Include="Assets\Shaders\Distortion\Distortion.shader" />

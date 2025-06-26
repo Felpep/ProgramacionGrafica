@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 442ecd9297399b5459e61febd40160cc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Ladrillo: {fileID: 2800000, guid: 3c73f9ec61688004eacec3d4e705b28a, type: 3}
+  - _TextureSample0: {fileID: 2800000, guid: 3c73f9ec61688004eacec3d4e705b28a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
