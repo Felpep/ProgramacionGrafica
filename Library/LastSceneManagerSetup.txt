@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/NivelBackRoom.unity
+- path: Assets/PARCIAL2/NivelBackRoom.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

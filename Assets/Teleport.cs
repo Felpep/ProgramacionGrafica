@@ -9,4 +9,8 @@ public class Teleport : MonoBehaviour
     {
         player.position = goal.position;
     }
+    private void OnCollisionEnter(Collision collision)
+    {
+        
+    }
 }

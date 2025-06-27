@@ -407,14 +407,14 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/BurnController.cs"
-"Assets/Shaders/ShadersBackroom/BasicPostProcess.cs"
-"Assets/Shaders/ShadersBackroom/InvertNormals.cs"
-"Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistancePostProcess1.cs"
-"Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceShaderPPSSettings.cs"
-"Assets/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceStackShaderPPSSettings.cs"
+"Assets/PARCIAL2/Shaders/ShadersBackroom/BasicPostProcess.cs"
+"Assets/PARCIAL2/Shaders/ShadersBackroom/InvertNormals.cs"
+"Assets/PARCIAL2/Shaders/ShadersBackroom/PostProcesoDistancia/DistancePostProcess1.cs"
+"Assets/PARCIAL2/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceShaderPPSSettings.cs"
+"Assets/PARCIAL2/Shaders/ShadersBackroom/PostProcesoDistancia/DistanceStackShaderPPSSettings.cs"
+"Assets/PARCIAL2/Valen/Player/FPSCamera.cs"
+"Assets/PARCIAL2/Valen/Player/PlayerController.cs"
 "Assets/Teleport.cs"
-"Assets/Valen/Player/FPSCamera.cs"
-"Assets/Valen/Player/PlayerController.cs"
 -langversion:9.0
 /deterministic
 /optimize+

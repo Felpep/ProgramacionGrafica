@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F67441-1D02-496F-93A9-2ADE14557B8B}|AmplifyShaderEditor.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\amplifyshadereditor\\plugins\\editor\\utils\\asestartscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F67441-1D02-496F-93A9-2ADE14557B8B}|AmplifyShaderEditor.csproj|solutionrelative:assets\\amplifyshadereditor\\plugins\\editor\\utils\\asestartscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\valen\\player\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\valen\\player\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0F67441-1D02-496F-93A9-2ADE14557B8B}|AmplifyShaderEditor.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\amplifyshadereditor\\plugins\\editor\\wires\\inputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,15 +38,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teleport.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Teleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Teleport.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Teleport.cs",
+              "RelativeToolTip": "Assets\\Teleport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:54:51.966Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ASEStartScreen.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Utils\\ASEStartScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Utils\\ASEStartScreen.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Utils\\ASEStartScreen.cs",
+              "RelativeToolTip": "Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Utils\\ASEStartScreen.cs",
+              "ViewState": "AQIAAMkBAAAAAAAAAAAewNQBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:32:00.312Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FPSCamera.cs",
               "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Valen\\Player\\FPSCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Valen\\Player\\FPSCamera.cs",
@@ -55,20 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Teleport.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Teleport.cs",
-              "RelativeDocumentMoniker": "Assets\\Teleport.cs",
-              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Teleport.cs",
-              "RelativeToolTip": "Assets\\Teleport.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:54:51.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "InputPort.cs",
               "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
               "RelativeDocumentMoniker": "Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
@@ -81,20 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BurnController.cs",
               "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\BurnController.cs",
               "RelativeDocumentMoniker": "Assets\\BurnController.cs",
               "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\BurnController.cs",
               "RelativeToolTip": "Assets\\BurnController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBEAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T15:51:02.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DistanceShader.shader",
               "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
@@ -106,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "InvertNormals.cs",
               "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
