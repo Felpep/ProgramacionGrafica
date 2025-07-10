@@ -37,6 +37,6 @@ Material:
     - _Range: 24.7
     - __dirty: 0
     m_Colors:
-    - _PlayerPos: {r: -291.70804, g: 1.0799999, b: 126.74622, a: 0}
+    - _PlayerPos: {r: -316.1397, g: 1.0799999, b: 132.24396, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

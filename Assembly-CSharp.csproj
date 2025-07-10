@@ -90,6 +90,7 @@
     <None Include="Assets\Shaders\Hologram\LAURA\Aura1.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\HologramaESpacio\Aura1.shader" />
     <None Include="Assets\Shaders\WaterToon\WaterToon.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\TexturaAzulejos\ParedBlancaAzulejos.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\PostProcesoDistancia\DistanceShader.shader" />
     <None Include="Assets\Shaders\HeightMap\HeightMap.shader" />
     <None Include="Assets\Shaders\Parallax\ParallaxOclussion 1.shader" />
@@ -105,6 +106,7 @@
     <None Include="Assets\Valen\ShadersValen\Burning\Burning.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\ParedConSangre\WorldSpaceUV.shader" />
     <None Include="Assets\Shaders\HeightMap\VertexColor.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\TexturaAzulejos\AzulejoBlanco.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\TechoBackroom\TechoBackroom.shader" />
     <None Include="Assets\Valen\UI\DistortionUI.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\PisoBackroom\PisoBackroom.shader" />
