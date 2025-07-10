@@ -66,6 +66,7 @@
     <Compile Include="Assets\Shaders\ShadersBackroom\Teleport2.cs" />
     <Compile Include="Assets\Shaders\ShadersBackroom\InvertNormals.cs" />
     <Compile Include="Assets\Shaders\ShadersBackroom\BasicPostProcess.cs" />
+    <Compile Include="Assets\Shaders\ShadersBackroom\MovingBridge\SetPlayerPos.cs" />
     <Compile Include="Assets\Valen\Player\FPSCamera.cs" />
     <Compile Include="Assets\Shaders\ShadersBackroom\PostProcesoDistancia\DistanceShaderPPSSettings.cs" />
     <Compile Include="Assets\Teleport.cs" />
@@ -83,6 +84,7 @@
     <None Include="Assets\Shaders\Parallax\ParallaxOclussion.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\VertexColor.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\VertexColor 1.shader" />
+    <None Include="Assets\Shaders\ShadersBackroom\MovingBridge\MovingPlatform.shader" />
     <None Include="Assets\Shaders\ShadersBackroom\BackroomWalls\ParedBackrooms.shader" />
     <None Include="Assets\Shaders\HeightMap\NormalHeightMap.shader" />
     <None Include="Assets\Shaders\Hologram\LAURA\Aura1.shader" />
