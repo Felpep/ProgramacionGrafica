@@ -417,6 +417,7 @@
 "Assets/Teleport.cs"
 "Assets/Valen/Player/FPSCamera.cs"
 "Assets/Valen/Player/PlayerController.cs"
+"Assets/Valen/ShadersValen/Toon/DoorRotation.cs"
 -langversion:9.0
 /deterministic
 /optimize+

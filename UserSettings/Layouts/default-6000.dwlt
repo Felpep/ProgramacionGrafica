@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1366
     height: 677
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 76
+  controlID: 89
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 77
+  controlID: 90
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -170,7 +170,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 78
+  controlID: 91
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -192,11 +192,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1021
-    height: 388
+    height: 375
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 68
+  controlID: 81
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -215,13 +215,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 275
-    height: 388
+    width: 296
+    height: 375
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 22}
+  m_ActualView: {fileID: 21}
   m_Panes:
-  - {fileID: 22}
+  - {fileID: 21}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &10
@@ -239,18 +239,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 275
+    x: 296
     y: 0
-    width: 746
-    height: 388
+    width: 725
+    height: 375
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
-  m_ActualView: {fileID: 25}
+  m_ActualView: {fileID: 24}
   m_Panes:
+  - {fileID: 22}
   - {fileID: 23}
   - {fileID: 24}
-  - {fileID: 25}
-  - {fileID: 21}
+  - {fileID: 20}
   m_Selected: 2
   m_LastSelected: 3
 --- !u!114 &11
@@ -269,24 +269,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 388
+    y: 375
     width: 1021
-    height: 233
+    height: 246
   m_MinSize: {x: 481, y: 296}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
+  - {fileID: 25}
   - {fileID: 26}
-  - {fileID: 27}
-  - {fileID: 28}
-  - {fileID: 29}
-  - {fileID: 30}
-  - {fileID: 31}
-  - {fileID: 32}
-  - {fileID: 33}
-  - {fileID: 34}
-  - {fileID: 35}
-  - {fileID: 20}
   - {fileID: 19}
   - {fileID: 18}
   - {fileID: 17}
@@ -294,8 +285,8 @@ MonoBehaviour:
   - {fileID: 15}
   - {fileID: 14}
   - {fileID: 13}
-  m_Selected: 17
-  m_LastSelected: 0
+  m_Selected: 8
+  m_LastSelected: 7
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,10 +308,10 @@ MonoBehaviour:
     height: 621
   m_MinSize: {x: 276, y: 126}
   m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 36}
+  m_ActualView: {fileID: 27}
   m_Panes:
-  - {fileID: 36}
-  - {fileID: 37}
+  - {fileID: 27}
+  - {fileID: 28}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &13
@@ -338,16 +329,16 @@ MonoBehaviour:
   m_MinSize: {x: 480, y: 270}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: TechoBac..
+    m_Text: ToonLighti..
     m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
-    m_TextWithWhitespace: "TechoBac..\u200B"
+    m_TextWithWhitespace: "ToonLighti..\u200B"
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 412
+    y: 454
     width: 1020
-    height: 207
+    height: 220
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -364,12 +355,12 @@ MonoBehaviour:
   m_innerEditorVariables:
     m_liveMode: 0
     m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
+    m_nodeParametersMaximized: 0
     m_nodePaletteMaximized: 0
     m_expandedRenderingPlatforms: 0
     m_expandedRenderingOptions: 0
     m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
+    m_expandedBlendOptions: 0
     m_expandedStencilOptions: 0
     m_expandedVertexOptions: 0
     m_expandedFunctionInputs: 0
@@ -387,29 +378,29 @@ MonoBehaviour:
     m_expandedTesselation: 0
     m_expandedProperties: 0
     m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/TexturaAzulejos/AzulejosParedBlanca.mat
+  m_lastpath: Assets/Valen/ShadersValen/Toon/ToonLighting.mat
   m_selectionMode: 1
   m_duplicatePreventionBuffer:
     m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 1384.5034618999998
-  m_lastTimeSaved: 1383.1083070999998
+  m_inactivityTime: 66134.3529361
+  m_lastTimeSaved: 66117.2553903
   m_cacheSaveOp: 0
   m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1238.727, y: -77.34949}
-  m_cameraZoom: 1.838856
-  m_minNodePos: {x: -2848, y: -528}
-  m_maxNodePos: {x: 299.7634, y: 367.46768}
+  m_cameraOffset: {x: 1747.7014, y: 332.72635}
+  m_cameraZoom: 3.1223054
+  m_minNodePos: {x: -1699.625, y: -205.7516}
+  m_maxNodePos: {x: 495.4004, y: 1773.21}
   m_isDirty: 0
   m_saveIsDirty: 0
   m_repaintIsDirty: 1
   m_liveShaderEditing: 0
   m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/TexturaAzulejos/ParedBlancaAzulejos.shader
+  m_lastOpenedLocation: Assets/Valen/ShadersValen/Toon/ToonLighting.shader
   m_zoomChanged: 0
-  m_lastWindowWidth: 1147
+  m_lastWindowWidth: 1020
   m_graphCount: 1
-  m_currentInactiveTime: -1360.8988141999998
-  m_currentNodeAvailability: 1
+  m_currentInactiveTime: 815.1624580999924
+  m_currentNodeAvailability: 4
   m_nodeParametersWindowMaximized: 1
   m_paletteWindowMaximized: 1
   m_isShaderFunctionWindow: 0
@@ -426,7 +417,7 @@ MonoBehaviour:
 
       This message can be turned
       off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 56.36210250854492
+    ItemTime: 179.65298461914062
     ItemOwnerId: -1
   m_maxMsgWidth: 400
   m_maximizeMessages: 0
@@ -451,16 +442,16 @@ MonoBehaviour:
   m_MinSize: {x: 480, y: 270}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: TechoBac..
-    m_Image: {fileID: -5962505394399907832, guid: 0000000000000000d000000000000000, type: 0}
+    m_Text: ToonLighti..
+    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
-    m_TextWithWhitespace: "TechoBac..\u200B"
+    m_TextWithWhitespace: "ToonLighti..\u200B"
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 386.4
-    width: 1147
-    height: 383.59998
+    y: 454
+    width: 1020
+    height: 220
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -482,7 +473,7 @@ MonoBehaviour:
     m_expandedRenderingPlatforms: 0
     m_expandedRenderingOptions: 0
     m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
+    m_expandedBlendOptions: 0
     m_expandedStencilOptions: 0
     m_expandedVertexOptions: 0
     m_expandedFunctionInputs: 0
@@ -500,29 +491,29 @@ MonoBehaviour:
     m_expandedTesselation: 0
     m_expandedProperties: 0
     m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/TexturaAzulejos/ParedBlancaAzulejos.shader
-  m_selectionMode: 0
+  m_lastpath: Assets/Valen/ShadersValen/Toon/ToonLighting 2.mat
+  m_selectionMode: 1
   m_duplicatePreventionBuffer:
     m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 459.72304349999996
-  m_lastTimeSaved: 448.07301839999997
+  m_inactivityTime: 66084.02686869999
+  m_lastTimeSaved: 66083.01983729999
   m_cacheSaveOp: 0
   m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 4472.296, y: -791.85596}
-  m_cameraZoom: 11.321204
-  m_minNodePos: {x: -2848, y: -528}
-  m_maxNodePos: {x: 299.7634, y: 168.5242}
+  m_cameraOffset: {x: 1237.5253, y: -79.55002}
+  m_cameraZoom: 2.4629529
+  m_minNodePos: {x: -1699.625, y: -205.7516}
+  m_maxNodePos: {x: 495.4004, y: 1773.21}
   m_isDirty: 0
-  m_saveIsDirty: 1
+  m_saveIsDirty: 0
   m_repaintIsDirty: 0
   m_liveShaderEditing: 0
   m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/TexturaAzulejos/ParedBlancaAzulejos.shader
+  m_lastOpenedLocation: Assets/Valen/ShadersValen/Toon/ToonLighting 1.shader
   m_zoomChanged: 0
-  m_lastWindowWidth: 1147
+  m_lastWindowWidth: 1020
   m_graphCount: 1
-  m_currentInactiveTime: 1.0494265000000382
-  m_currentNodeAvailability: 1
+  m_currentInactiveTime: 12.653371399996104
+  m_currentNodeAvailability: 4
   m_nodeParametersWindowMaximized: 1
   m_paletteWindowMaximized: 1
   m_isShaderFunctionWindow: 0
@@ -539,7 +530,7 @@ MonoBehaviour:
 
       This message can be turned
       off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 438.635498046875
+    ItemTime: 145.4162139892578
     ItemOwnerId: -1
   m_maxMsgWidth: 400
   m_maximizeMessages: 0
@@ -564,16 +555,16 @@ MonoBehaviour:
   m_MinSize: {x: 480, y: 270}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: AzulejoBla..
-    m_Image: {fileID: -5962505394399907832, guid: 0000000000000000d000000000000000, type: 0}
+    m_Text: TechoBa..*
+    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
-    m_TextWithWhitespace: "AzulejoBla..\u200B"
+    m_TextWithWhitespace: "TechoBa..*\u200B"
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 386.4
-    width: 1147
-    height: 383.59998
+    y: 454
+    width: 1020
+    height: 220
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -590,12 +581,12 @@ MonoBehaviour:
   m_innerEditorVariables:
     m_liveMode: 0
     m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
+    m_nodeParametersMaximized: 0
     m_nodePaletteMaximized: 0
     m_expandedRenderingPlatforms: 0
     m_expandedRenderingOptions: 0
     m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
+    m_expandedBlendOptions: 0
     m_expandedStencilOptions: 0
     m_expandedVertexOptions: 0
     m_expandedFunctionInputs: 0
@@ -613,48 +604,36 @@ MonoBehaviour:
     m_expandedTesselation: 0
     m_expandedProperties: 0
     m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/TexturaAzulejos/AzulejoBlanco.shader
-  m_selectionMode: 0
+  m_lastpath: Assets/Shaders/ShadersBackroom/TexturaAzulejos/AzulejosParedBlanca.mat
+  m_selectionMode: 1
   m_duplicatePreventionBuffer:
     m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 275.50495739999997
-  m_lastTimeSaved: 274.7316656
+  m_inactivityTime: 66029.1256604
+  m_lastTimeSaved: 58998.1284652
   m_cacheSaveOp: 0
   m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1121.119, y: 257.59836}
-  m_cameraZoom: 1.3
-  m_minNodePos: {x: -370.23914, y: -9.038387}
-  m_maxNodePos: {x: 0, y: 3.4416199}
+  m_cameraOffset: {x: 3573.9194, y: 386.92484}
+  m_cameraZoom: 2.5986435
+  m_minNodePos: {x: -2947.166, y: -528}
+  m_maxNodePos: {x: 506.6983, y: 375.8893}
   m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
+  m_saveIsDirty: 0
+  m_repaintIsDirty: 0
   m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/TexturaAzulejos/AzulejoBlanco.shader
+  m_shaderIsModified: 1
+  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/TexturaAzulejos/ParedBlancaAzulejos.shader
   m_zoomChanged: 0
-  m_lastWindowWidth: 1147
+  m_lastWindowWidth: 1020
   m_graphCount: 1
-  m_currentInactiveTime: 1.481422899999984
+  m_currentInactiveTime: 0.8490228000009665
   m_currentNodeAvailability: 1
   m_nodeParametersWindowMaximized: 1
   m_paletteWindowMaximized: 1
   m_isShaderFunctionWindow: 0
   m_openedShaderFunction: {fileID: 0}
   m_openedAssetFromNode: 0
-  m_messages:
-  - ItemType: 0
-    ItemMessage: 'Detected Asynchronous Shader Compilation. This can cause slowdowns
-      when saving not only ASE shaders but other shaders as well.
-
-      Please consider
-      turning it off ( Project Settings > Editor > Asynchronous Shader Compilation
-      ) if detecting big slowdowns on shader save.
-
-      This message can be turned
-      off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 265.2925109863281
-    ItemOwnerId: -1
-  m_maxMsgWidth: 400
+  m_messages: []
+  m_maxMsgWidth: 100
   m_maximizeMessages: 0
   m_frameCounter: 0
   m_fpsTime: 0
@@ -684,9 +663,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 386.4
-    width: 1147
-    height: 383.59998
+    y: 449
+    width: 1020
+    height: 225
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -708,7 +687,7 @@ MonoBehaviour:
     m_expandedRenderingPlatforms: 0
     m_expandedRenderingOptions: 0
     m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
+    m_expandedBlendOptions: 0
     m_expandedStencilOptions: 0
     m_expandedVertexOptions: 0
     m_expandedFunctionInputs: 0
@@ -730,13 +709,13 @@ MonoBehaviour:
   m_selectionMode: 1
   m_duplicatePreventionBuffer:
     m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 2532.4651913999996
-  m_lastTimeSaved: 2531.5900459
+  m_inactivityTime: 57175.377306
+  m_lastTimeSaved: 57172.4286229
   m_cacheSaveOp: 0
   m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1993.0157, y: 170.63594}
-  m_cameraZoom: 2.214854
-  m_minNodePos: {x: -1888.567, y: -73.597374}
+  m_cameraOffset: {x: 3205.7244, y: 397.5608}
+  m_cameraZoom: 4.0389295
+  m_minNodePos: {x: -1888.567, y: -271.31006}
   m_maxNodePos: {x: 0, y: 414.2411}
   m_isDirty: 0
   m_saveIsDirty: 1
@@ -745,9 +724,9 @@ MonoBehaviour:
   m_shaderIsModified: 0
   m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/MovingBridge/MovingPlatform.shader
   m_zoomChanged: 0
-  m_lastWindowWidth: 1147
+  m_lastWindowWidth: 1020
   m_graphCount: 1
-  m_currentInactiveTime: 10.608974100000069
+  m_currentInactiveTime: 882.120268599996
   m_currentNodeAvailability: 1
   m_nodeParametersWindowMaximized: 1
   m_paletteWindowMaximized: 1
@@ -765,7 +744,7 @@ MonoBehaviour:
 
       This message can be turned
       off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 103.54805755615234
+    ItemTime: 184.56503295898438
     ItemOwnerId: -1
   m_maxMsgWidth: 400
   m_maximizeMessages: 0
@@ -790,16 +769,16 @@ MonoBehaviour:
   m_MinSize: {x: 480, y: 270}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: WorldSp..*
+    m_Text: ToonLighti..
     m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
-    m_TextWithWhitespace: "WorldSp..*\u200B"
+    m_TextWithWhitespace: "ToonLighti..\u200B"
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 372
-    width: 1147
-    height: 398
+    y: 454
+    width: 1020
+    height: 220
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -821,7 +800,7 @@ MonoBehaviour:
     m_expandedRenderingPlatforms: 0
     m_expandedRenderingOptions: 0
     m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
+    m_expandedBlendOptions: 0
     m_expandedStencilOptions: 0
     m_expandedVertexOptions: 0
     m_expandedFunctionInputs: 0
@@ -839,36 +818,48 @@ MonoBehaviour:
     m_expandedTesselation: 0
     m_expandedProperties: 0
     m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/ParedConSangre/FlechaParedDerecha.mat
-  m_selectionMode: 1
+  m_lastpath: Assets/Valen/ShadersValen/Toon/ToonLighting.shader
+  m_selectionMode: 0
   m_duplicatePreventionBuffer:
     m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 407.2220633
-  m_lastTimeSaved: 0
+  m_inactivityTime: 64473.0167956
+  m_lastTimeSaved: 64206.148139900004
   m_cacheSaveOp: 0
   m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1943.9259, y: 573.4973}
-  m_cameraZoom: 3.11007
-  m_minNodePos: {x: -1305.698, y: -494.5962}
-  m_maxNodePos: {x: 720.0447, y: 690.1317}
+  m_cameraOffset: {x: 8954.192, y: 990.4774}
+  m_cameraZoom: 13.412076
+  m_minNodePos: {x: -1699.625, y: -205.7516}
+  m_maxNodePos: {x: 495.4004, y: 1773.21}
   m_isDirty: 0
   m_saveIsDirty: 1
-  m_repaintIsDirty: 0
+  m_repaintIsDirty: 1
   m_liveShaderEditing: 0
-  m_shaderIsModified: 1
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/ParedConSangre/WorldSpaceUV.shader
+  m_shaderIsModified: 0
+  m_lastOpenedLocation: Assets/Valen/ShadersValen/Toon/ToonLighting.shader
   m_zoomChanged: 0
-  m_lastWindowWidth: 1147
+  m_lastWindowWidth: 1020
   m_graphCount: 1
-  m_currentInactiveTime: 1.2245704000000046
-  m_currentNodeAvailability: 1
+  m_currentInactiveTime: 0.20579629999701865
+  m_currentNodeAvailability: 4
   m_nodeParametersWindowMaximized: 1
   m_paletteWindowMaximized: 1
   m_isShaderFunctionWindow: 0
   m_openedShaderFunction: {fileID: 0}
   m_openedAssetFromNode: 0
-  m_messages: []
-  m_maxMsgWidth: 100
+  m_messages:
+  - ItemType: 0
+    ItemMessage: 'Detected Asynchronous Shader Compilation. This can cause slowdowns
+      when saving not only ASE shaders but other shaders as well.
+
+      Please consider
+      turning it off ( Project Settings > Editor > Asynchronous Shader Compilation
+      ) if detecting big slowdowns on shader save.
+
+      This message can be turned
+      off via Preferences > Amplify Shader Editor > Show Async Message.'
+    ItemTime: 28.983905792236328
+    ItemOwnerId: -1
+  m_maxMsgWidth: 400
   m_maximizeMessages: 0
   m_frameCounter: 0
   m_fpsTime: 0
@@ -891,16 +882,16 @@ MonoBehaviour:
   m_MinSize: {x: 480, y: 270}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: NormalHei..
+    m_Text: Ceil
     m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
-    m_TextWithWhitespace: "NormalHei..\u200B"
+    m_TextWithWhitespace: "Ceil\u200B"
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 372
-    width: 1147
-    height: 398
+    y: 421
+    width: 1020
+    height: 253
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -922,7 +913,7 @@ MonoBehaviour:
     m_expandedRenderingPlatforms: 0
     m_expandedRenderingOptions: 0
     m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
+    m_expandedBlendOptions: 0
     m_expandedStencilOptions: 0
     m_expandedVertexOptions: 0
     m_expandedFunctionInputs: 0
@@ -940,37 +931,48 @@ MonoBehaviour:
     m_expandedTesselation: 0
     m_expandedProperties: 0
     m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/LunaConHeightMap/HeigthMapConMovimiento
-    1.mat
+  m_lastpath: Assets/Valen/ShadersValen/Toon/Ceil.mat
   m_selectionMode: 1
   m_duplicatePreventionBuffer:
     m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 394.0853631
-  m_lastTimeSaved: 0
+  m_inactivityTime: 7281.6464313
+  m_lastTimeSaved: 7280.724512
   m_cacheSaveOp: 0
   m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1541.8752, y: 38.76782}
-  m_cameraZoom: 1.6
-  m_minNodePos: {x: -1548.475, y: -93.98383}
-  m_maxNodePos: {x: 0, y: 428.3604}
+  m_cameraOffset: {x: 3751.7634, y: 616.6464}
+  m_cameraZoom: 4.7214875
+  m_minNodePos: {x: -2359.0896, y: -774.5831}
+  m_maxNodePos: {x: 442.2642, y: 1287.065}
   m_isDirty: 0
   m_saveIsDirty: 1
-  m_repaintIsDirty: 1
+  m_repaintIsDirty: 0
   m_liveShaderEditing: 0
   m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/LunaConHeightMap/NormalHeightMap.shader
+  m_lastOpenedLocation: Assets/Valen/ShadersValen/Toon/Ceil.shader
   m_zoomChanged: 0
-  m_lastWindowWidth: 1147
+  m_lastWindowWidth: 1020
   m_graphCount: 1
-  m_currentInactiveTime: 1.0333431000000246
+  m_currentInactiveTime: 0.3695313000007445
   m_currentNodeAvailability: 1
   m_nodeParametersWindowMaximized: 1
   m_paletteWindowMaximized: 1
   m_isShaderFunctionWindow: 0
   m_openedShaderFunction: {fileID: 0}
   m_openedAssetFromNode: 0
-  m_messages: []
-  m_maxMsgWidth: 100
+  m_messages:
+  - ItemType: 0
+    ItemMessage: 'Detected Asynchronous Shader Compilation. This can cause slowdowns
+      when saving not only ASE shaders but other shaders as well.
+
+      Please consider
+      turning it off ( Project Settings > Editor > Asynchronous Shader Compilation
+      ) if detecting big slowdowns on shader save.
+
+      This message can be turned
+      off via Preferences > Amplify Shader Editor > Show Async Message.'
+    ItemTime: 19.24713706970215
+    ItemOwnerId: -1
+  m_maxMsgWidth: 400
   m_maximizeMessages: 0
   m_frameCounter: 0
   m_fpsTime: 0
@@ -993,16 +995,16 @@ MonoBehaviour:
   m_MinSize: {x: 480, y: 270}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Aura1
+    m_Text: WaterToo..
     m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
-    m_TextWithWhitespace: "Aura1\u200B"
+    m_TextWithWhitespace: "WaterToo..\u200B"
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 372
-    width: 1147
-    height: 398
+    y: 280
+    width: 1020
+    height: 394
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1042,28 +1044,28 @@ MonoBehaviour:
     m_expandedTesselation: 0
     m_expandedProperties: 0
     m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/HologramaESpacio/HologramaPasillo.mat
+  m_lastpath: Assets/Shaders/WaterToon/WaterToon.mat
   m_selectionMode: 1
   m_duplicatePreventionBuffer:
     m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 381.8507883
+  m_inactivityTime: 1871.0918882
   m_lastTimeSaved: 0
   m_cacheSaveOp: 0
   m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 2286.2742, y: 307.52536}
-  m_cameraZoom: 2.23811
-  m_minNodePos: {x: -3888.981, y: -665.8759}
-  m_maxNodePos: {x: 0, y: 1007.565}
+  m_cameraOffset: {x: 2667.6287, y: 378.5918}
+  m_cameraZoom: 4.746175
+  m_minNodePos: {x: -1955.452, y: -260.2267}
+  m_maxNodePos: {x: 810.556, y: 427.5103}
   m_isDirty: 0
   m_saveIsDirty: 1
-  m_repaintIsDirty: 1
+  m_repaintIsDirty: 0
   m_liveShaderEditing: 0
   m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/HologramaESpacio/Aura1.shader
+  m_lastOpenedLocation: Assets/Shaders/WaterToon/WaterToon.shader
   m_zoomChanged: 0
-  m_lastWindowWidth: 1147
+  m_lastWindowWidth: 1020
   m_graphCount: 1
-  m_currentInactiveTime: 1.241175300000009
+  m_currentInactiveTime: 5.427524700000049
   m_currentNodeAvailability: 1
   m_nodeParametersWindowMaximized: 1
   m_paletteWindowMaximized: 1
@@ -1087,107 +1089,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: ScreenSpa..
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "ScreenSpa..\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 372
-    width: 1147
-    height: 398
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/Esferaespacial/ScreenSpaceUV.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 371.8516042
-  m_lastTimeSaved: 0
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 3094.4207, y: 821.37976}
-  m_cameraZoom: 4.884476
-  m_minNodePos: {x: -1576.596, y: -83.54028}
-  m_maxNodePos: {x: 349.7232, y: 180.5978}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/SpaceUV/ScreenSpaceUV.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1147
-  m_graphCount: 1
-  m_currentInactiveTime: 1.5133306999999832
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages: []
-  m_maxMsgWidth: 100
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &21
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -1201,10 +1102,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 308.80002
-    y: 79.200005
-    width: 837.2
-    height: 422.8
+    x: 296
+    y: 79
+    width: 723
+    height: 349
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1258,30 +1159,30 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 837.2
-      height: 401.8
-    m_Scale: {x: 0.18601851, y: 0.18601851}
-    m_Translation: {x: 418.6, y: 200.9}
+      width: 723
+      height: 328
+    m_Scale: {x: 0.15185185, y: 0.15185185}
+    m_Translation: {x: 361.5, y: 164}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -2250.3137
+      x: -2380.6099
       y: -1080
-      width: 4500.6274
+      width: 4761.2197
       height: 2160
     m_MinimalGUI: 1
-  m_defaultScale: 0.18601851
-  m_LastWindowPixelSize: {x: 837.2, y: 422.8}
+  m_defaultScale: 0.15185185
+  m_LastWindowPixelSize: {x: 723, y: 349}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
   m_showToolbar: 1
---- !u!114 &22
+--- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1303,9 +1204,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
-    width: 274
-    height: 362
+    y: 79
+    width: 295
+    height: 349
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1322,7 +1223,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f2faffff
+      m_ExpandedIDs: 6857faff3655fcffb4d8feff8297ffff14a5000082a80000e2a9000090b10000f2b30000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1347,7 +1248,7 @@ MonoBehaviour:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 4c969a2b90040154d917609493e03593
---- !u!114 &23
+--- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1419,7 +1320,7 @@ MonoBehaviour:
   m_CurrentEditor: 1
   m_LayerEditor:
     m_SelectedLayerIndex: 0
---- !u!114 &24
+--- !u!114 &23
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1455,7 +1356,7 @@ MonoBehaviour:
     m_SaveData: []
     m_ContainerData: []
     m_OverlaysVisible: 1
---- !u!114 &25
+--- !u!114 &24
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1476,10 +1377,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 276
-    y: 24
-    width: 744
-    height: 362
+    x: 296
+    y: 79
+    width: 723
+    height: 349
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -2006,9 +1907,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 8.570781, y: 4.3981466, z: 133.8227}
+    m_Target: {x: 0.6703936, y: 8.033974, z: 140.04414}
     speed: 2
-    m_Value: {x: 8.570781, y: 4.3981466, z: 133.8227}
+    m_Value: {x: 0.6703936, y: 8.033974, z: 140.04414}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -2041,7 +1942,7 @@ MonoBehaviour:
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
+      m_Size: {x: 0.5, y: 0.5}
     zGrid:
       m_Fade:
         m_Target: 0
@@ -2054,13 +1955,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0034913186, y: 0.74342716, z: 0.004532289, w: 0.6692552}
+    m_Target: {x: 0.18798043, y: -0.05566994, z: 0.009842805, w: 0.98090607}
     speed: 2
-    m_Value: {x: -0.0034913186, y: 0.74342716, z: 0.004532289, w: 0.6692552}
+    m_Value: {x: 0.18634741, y: -0.06449011, z: 0.0114332605, w: 0.98029846}
   m_Size:
-    m_Target: 9.599469
+    m_Target: 103.38098
     speed: 2
-    m_Value: 9.599469
+    m_Value: 103.38098
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -2081,7 +1982,7 @@ MonoBehaviour:
   m_LastSceneViewRotation: {x: 0.12371381, y: -0.09657446, z: 0.008896523, w: 0.9884371}
   m_LastSceneViewOrtho: 0
   m_Viewpoint:
-    m_SceneView: {fileID: 25}
+    m_SceneView: {fileID: 24}
     m_CameraOverscanSettings:
       m_Opacity: 50
       m_Scale: 1
@@ -2091,7 +1992,7 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_LastDebugDrawMode: 35
   m_ViewIsLockedToObject: 0
---- !u!114 &26
+--- !u!114 &25
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2113,9 +2014,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 528
-    width: 1147
-    height: 242
+    y: 454
+    width: 1020
+    height: 220
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -2138,7 +2039,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Shaders/ShadersBackroom/TexturaAzulejos
+    - Assets/Valen/ShadersValen/Toon
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -2146,17 +2047,17 @@ MonoBehaviour:
     m_ImportLogFlags: 0
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
-  m_StartGridSize: 78
+  m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Shaders/ShadersBackroom/TexturaAzulejos
-  m_LastFoldersGridSize: 78
-  m_LastProjectPath: C:\Proyectos De Unity\ProgramacionGrafica
+  - Assets/Valen/ShadersValen/Toon
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: C:\Users\valen\OneDrive\Documentos\GitHub\ProgramacionGrafica
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 226}
-    m_SelectedIDs: eaa50000
-    m_LastClickedID: 42474
+    scrollPos: {x: 0, y: 408}
+    m_SelectedIDs: 94b90000
+    m_LastClickedID: 47508
     m_ExpandedIDs: 00000000c4b70000c6b70000c8b70000cab70000ccb70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -2212,24 +2113,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: e6a6ffff
-    m_LastClickedInstanceID: -22810
+    m_SelectedInstanceIDs: 26c1fdff
+    m_LastClickedInstanceID: -147162
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c623000056800000aadf0200c662000060c4080080c4080028c40800a25a0000ea2e0b00989c00006883000020980000000000009eee0300
+    m_ExpandedInstanceIDs: c623000056800000aadf0200c662000060c4080080c4080028c40800a25a0000ea2e0b00989c000068830000209800009eee0300000000004c0b0200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: AzulejosParedBlanca
+      m_OriginalName: AzulejosParedBlanca
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 39462
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 11}
@@ -2240,11 +2141,11 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 78
+    m_ScrollPosition: {x: 0, y: 19}
+    m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
---- !u!114 &27
+--- !u!114 &26
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2266,45 +2167,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 545.60004
-    width: 1147
-    height: 224.4
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
---- !u!114 &28
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Waves
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "Waves\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 453
+    y: 454
     width: 1020
-    height: 221
+    height: 220
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -2316,834 +2181,7 @@ MonoBehaviour:
     m_SaveData: []
     m_ContainerData: []
     m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 0
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Valen/ShadersValen/Waves/Waves.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 8319.915351200001
-  m_lastTimeSaved: 8318.126543800001
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 3313.16, y: -504.11237}
-  m_cameraZoom: 1.389663
-  m_minNodePos: {x: -5605.584, y: -1734.602}
-  m_maxNodePos: {x: 612.5058, y: 1450.951}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Valen/ShadersValen/Waves/Waves.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1020
-  m_graphCount: 1
-  m_currentInactiveTime: 0.49437849999958416
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages:
-  - ItemType: 0
-    ItemMessage: 'Detected Asynchronous Shader Compilation. This can cause slowdowns
-      when saving not only ASE shaders but other shaders as well.
-
-      Please consider
-      turning it off ( Project Settings > Editor > Asynchronous Shader Compilation
-      ) if detecting big slowdowns on shader save.
-
-      This message can be turned
-      off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 6.657005786895752
-    ItemOwnerId: -1
-  m_maxMsgWidth: 400
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &29
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: WaterToo..
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "WaterToo..\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 453
-    width: 1020
-    height: 221
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 0
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/WaterToon/WaterToon.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 3812.0473968
-  m_lastTimeSaved: 0
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1282.2821, y: 111.46479}
-  m_cameraZoom: 2.312691
-  m_minNodePos: {x: -1955.452, y: -260.2267}
-  m_maxNodePos: {x: 810.556, y: 427.5103}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/WaterToon/WaterToon.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1020
-  m_graphCount: 1
-  m_currentInactiveTime: 4505.274724499999
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages: []
-  m_maxMsgWidth: 100
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &30
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Burning
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "Burning\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 453
-    width: 1020
-    height: 221
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Valen/ShadersValen/Burning/Burning.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 8281.1633229
-  m_lastTimeSaved: 8279.5727823
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: -178.58942, y: -1352.7736}
-  m_cameraZoom: 1.5702156
-  m_minNodePos: {x: -3184, y: -64}
-  m_maxNodePos: {x: 1568, y: 2256}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Valen/ShadersValen/Burning/Burning.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1020
-  m_graphCount: 1
-  m_currentInactiveTime: 34.13413100000071
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages:
-  - ItemType: 0
-    ItemMessage: 'Detected Asynchronous Shader Compilation. This can cause slowdowns
-      when saving not only ASE shaders but other shaders as well.
-
-      Please consider
-      turning it off ( Project Settings > Editor > Asynchronous Shader Compilation
-      ) if detecting big slowdowns on shader save.
-
-      This message can be turned
-      off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 33.847084045410156
-    ItemOwnerId: -1
-  m_maxMsgWidth: 400
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &31
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: ParedBack..
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "ParedBack..\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 545.60004
-    width: 1147
-    height: 224.4
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/BackroomWalls/ParedBackrooms.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 9852.4221032
-  m_lastTimeSaved: 9519.723540300001
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1551.3529, y: 271.237}
-  m_cameraZoom: 1.716439
-  m_minNodePos: {x: -3421.9912, y: -142.13103}
-  m_maxNodePos: {x: 1853.673, y: 1774.2738}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/BackroomWalls/ParedBackrooms.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1147
-  m_graphCount: 1
-  m_currentInactiveTime: -9251.6780438
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages:
-  - ItemType: 0
-    ItemMessage: 'Detected Asynchronous Shader Compilation. This can cause slowdowns
-      when saving not only ASE shaders but other shaders as well.
-
-      Please consider
-      turning it off ( Project Settings > Editor > Asynchronous Shader Compilation
-      ) if detecting big slowdowns on shader save.
-
-      This message can be turned
-      off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 1084.1962890625
-    ItemOwnerId: -1
-  m_maxMsgWidth: 400
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &32
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: TechoBac..
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "TechoBac..\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 369
-    width: 1020
-    height: 305
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/TechoBackroom/TechoBackroom.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 9262.4237894
-  m_lastTimeSaved: 9251.4274405
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 4518.3027, y: 685.4595}
-  m_cameraZoom: 4.5209675
-  m_minNodePos: {x: -2281.6375, y: -439.51627}
-  m_maxNodePos: {x: 299.7634, y: 478.2744}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/TechoBackroom/TechoBackroom.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1020
-  m_graphCount: 1
-  m_currentInactiveTime: 3.3348483000008855
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages:
-  - ItemType: 0
-    ItemMessage: 'Detected Asynchronous Shader Compilation. This can cause slowdowns
-      when saving not only ASE shaders but other shaders as well.
-
-      Please consider
-      turning it off ( Project Settings > Editor > Asynchronous Shader Compilation
-      ) if detecting big slowdowns on shader save.
-
-      This message can be turned
-      off via Preferences > Amplify Shader Editor > Show Async Message.'
-    ItemTime: 815.8997192382812
-    ItemOwnerId: -1
-  m_maxMsgWidth: 400
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &33
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: PisoBack..*
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "PisoBack..*\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 369
-    width: 1020
-    height: 305
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/ShadersBackroom/PisoBackroom/PisoBackroom.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 9324.602536600001
-  m_lastTimeSaved: 0
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1681.8153, y: -9.001514}
-  m_cameraZoom: 1.8859314
-  m_minNodePos: {x: -954.4373, y: -162.644}
-  m_maxNodePos: {x: 0, y: 293.6763}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 1
-  m_lastOpenedLocation: Assets/Shaders/ShadersBackroom/PisoBackroom/PisoBackroom.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1020
-  m_graphCount: 1
-  m_currentInactiveTime: 1.0926918999994086
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages:
-  - ItemType: 0
-    ItemMessage: 'Duplicate name found on edited node.
-
-      Assigning first valid
-      one Texture Sample 1'
-    ItemTime: 889.776123046875
-    ItemOwnerId: 4
-  m_maxMsgWidth: 252.85
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &34
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: ParallaxO..*
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "ParallaxO..*\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 369
-    width: 1020
-    height: 305
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/Parallax/ParallaxOclussion.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 9058.3222805
-  m_lastTimeSaved: 0
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 1804.0645, y: 105.381546}
-  m_cameraZoom: 2.7568674
-  m_minNodePos: {x: -1037.474, y: -126.9955}
-  m_maxNodePos: {x: 156.0532, y: 478.2744}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 1
-  m_lastOpenedLocation: Assets/Shaders/Parallax/ParallaxOclussion.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1020
-  m_graphCount: 1
-  m_currentInactiveTime: 356.34000559999913
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages: []
-  m_maxMsgWidth: 100
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &35
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bcac0d66f920e49803925a85beb0ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 480, y: 270}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Parallax
-    m_Image: {fileID: 5596697988196858232, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "Parallax\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 545.60004
-    width: 1147
-    height: 224.4
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_customGraph: {fileID: 0}
-  m_templatesManager: {fileID: 0}
-  m_innerEditorVariables:
-    m_liveMode: 0
-    m_outlineActiveMode: 0
-    m_nodeParametersMaximized: 1
-    m_nodePaletteMaximized: 0
-    m_expandedRenderingPlatforms: 0
-    m_expandedRenderingOptions: 0
-    m_expandedGeneralShaderOptions: 1
-    m_expandedBlendOptions: 1
-    m_expandedStencilOptions: 0
-    m_expandedVertexOptions: 0
-    m_expandedFunctionInputs: 0
-    m_expandedFunctionSwitches: 0
-    m_expandedFunctionOutputs: 0
-    m_expandedAdditionalIncludes: 0
-    m_expandedAdditionalDefines: 0
-    m_expandedAdditionalDirectives: 0
-    m_expandedCustomTags: 0
-    m_expandedAdditionalSurfaceOptions: 0
-    m_expandedAdditionalPragmas: 0
-    m_expandedDependencies: 0
-    m_expandedBlendModeModule: 0
-    m_expandedDepth: 0
-    m_expandedTesselation: 0
-    m_expandedProperties: 0
-    m_expandedUsePass: 0
-  m_lastpath: Assets/Shaders/Parallax/Parallax.mat
-  m_selectionMode: 1
-  m_duplicatePreventionBuffer:
-    m_availableUVChannelsArray: ffffffffffffffffffffffffffffffff
-  m_inactivityTime: 9423.3904146
-  m_lastTimeSaved: 0
-  m_cacheSaveOp: 0
-  m_mainGraphInstance: {fileID: 0}
-  m_cameraOffset: {x: 668.0498, y: -599.7922}
-  m_cameraZoom: 2.95111
-  m_minNodePos: {x: -1654.841, y: 0}
-  m_maxNodePos: {x: 2253.934, y: 1430.106}
-  m_isDirty: 0
-  m_saveIsDirty: 1
-  m_repaintIsDirty: 1
-  m_liveShaderEditing: 0
-  m_shaderIsModified: 0
-  m_lastOpenedLocation: Assets/Shaders/Parallax/Parallax.shader
-  m_zoomChanged: 0
-  m_lastWindowWidth: 1147
-  m_graphCount: 1
-  m_currentInactiveTime: -8285.973711
-  m_currentNodeAvailability: 1
-  m_nodeParametersWindowMaximized: 1
-  m_paletteWindowMaximized: 1
-  m_isShaderFunctionWindow: 0
-  m_openedShaderFunction: {fileID: 0}
-  m_openedAssetFromNode: 0
-  m_messages: []
-  m_maxMsgWidth: 100
-  m_maximizeMessages: 0
-  m_frameCounter: 0
-  m_fpsTime: 0
-  m_fpsDisplay: 
-  CheckFunctions: 0
-  MouseInteracted: 0
-  State: 0
---- !u!114 &36
+--- !u!114 &27
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3164,8 +2202,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1022
-    y: 24
+    x: 1021
+    y: 79
     width: 344
     height: 595
   m_SerializedDataModeController:
@@ -3192,7 +2230,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
---- !u!114 &37
+--- !u!114 &28
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
