@@ -2,15 +2,17 @@ using UnityEngine;
 
 public class BurnController : MonoBehaviour
 {
+    [SerializeField] private Teleport2 teleport;
+
     public Material mat;
     public GameObject go;
-    //public Shader shader;
-    //public MaterialPropertyBlock mat;
-    //public Texture tex;
     private float burn = 0;
     public float burnSpeed;
     private float property;
     public bool active = false;
+    public Transform goal;
+    public GameObject player;
+
 
     private void Start()
     {
@@ -23,12 +25,13 @@ public class BurnController : MonoBehaviour
         if (active)
         {
             mat.SetFloat("_Burn", burn += burnSpeed);
-            if (property > 1)
+            if (burn >= 0.6f && burn <= 0.62f)
             {
-                print("hola");
-                //go.SetActive(false);
+                teleport.SetPosition(player,goal);
             }
+
         }
+
     }
 
     private void OnTriggerEnter(Collider other)

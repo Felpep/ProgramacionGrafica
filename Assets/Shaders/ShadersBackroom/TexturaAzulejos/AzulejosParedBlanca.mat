@@ -40,7 +40,8 @@ Material:
     - _Float0: 0
     - _Scale: 0.07
     - _Smoothness: 1
-    - __dirty: 1
-    m_Colors: []
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 0.8583796, g: 0.8443396, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

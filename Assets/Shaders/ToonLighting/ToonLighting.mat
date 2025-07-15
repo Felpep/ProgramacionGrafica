@@ -38,9 +38,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _HandleLambert: 0.27
-    - _Step: 0
-    - _Step2: 0.042
-    - _Step3: 0.111
+    - _Step: 0.025
+    - _Step2: 0.149
+    - _Step3: 0.239
     - __dirty: 0
     m_Colors: []
   m_BuildTextureStacks: []

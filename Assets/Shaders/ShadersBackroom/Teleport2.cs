@@ -8,10 +8,13 @@ public class Teleport2 : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        player.transform.position = goal.transform.position;
-        Debug.Log("Entro");
+        SetPosition(player,goal);
+    }
+    public void SetPosition(GameObject player, Transform goal)
+    {
+        player.transform.position = goal.position;
+        //print("QQQQQQQQQQQQQQQQQ");
     }
 
-   
 }
 

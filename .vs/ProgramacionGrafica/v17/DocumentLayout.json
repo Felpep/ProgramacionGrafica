@@ -1,37 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyectos De Unity\\ProgramacionGrafica\\",
+  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\proyectos de unity\\programaciongrafica\\assets\\shaders\\shadersbackroom\\movingbridge\\setplayerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\movingbridge\\setplayerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\proyectos de unity\\programaciongrafica\\assets\\shaders\\shadersbackroom\\teleport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\teleport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\burncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\shaders\\shadersbackroom\\teleport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\teleport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\shaders\\shadersbackroom\\invertnormals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\invertnormals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\shaders\\shadersbackroom\\movingbridge\\setplayerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\movingbridge\\setplayerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\valen\\player\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\valen\\shadersvalen\\toon\\doorrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\valen\\shadersvalen\\toon\\doorrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|c:\\users\\valen\\onedrive\\documentos\\github\\programaciongrafica\\assets\\valen\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\valen\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\valen\\player\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\valen\\player\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0F67441-1D02-496F-93A9-2ADE14557B8B}|AmplifyShaderEditor.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\amplifyshadereditor\\plugins\\editor\\wires\\inputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\shaders\\shadersbackroom\\invertnormals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\invertnormals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F67441-1D02-496F-93A9-2ADE14557B8B}|AmplifyShaderEditor.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\amplifyshadereditor\\plugins\\editor\\wires\\inputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F67441-1D02-496F-93A9-2ADE14557B8B}|AmplifyShaderEditor.csproj|solutionrelative:assets\\amplifyshadereditor\\plugins\\editor\\wires\\inputport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Proyectos De Unity\\ProgramacionGrafica\\assets\\shaders\\shadersbackroom\\postprocesodistancia\\distanceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\assets\\shaders\\shadersbackroom\\postprocesodistancia\\distanceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{3596BBAD-C0DC-6F32-D49B-C89E06316BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\shadersbackroom\\postprocesodistancia\\distanceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -42,17 +50,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Valen\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Valen\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Valen\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Valen\\Player\\PlayerController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:39:15.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoorRotation.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Valen\\ShadersValen\\Toon\\DoorRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Valen\\ShadersValen\\Toon\\DoorRotation.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Valen\\ShadersValen\\Toon\\DoorRotation.cs",
+              "RelativeToolTip": "Assets\\Valen\\ShadersValen\\Toon\\DoorRotation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:33:05.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SetPlayerPos.cs",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\MovingBridge\\SetPlayerPos.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\MovingBridge\\SetPlayerPos.cs",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\MovingBridge\\SetPlayerPos.cs",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\MovingBridge\\SetPlayerPos.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\MovingBridge\\SetPlayerPos.cs",
               "RelativeToolTip": "Assets\\Shaders\\ShadersBackroom\\MovingBridge\\SetPlayerPos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T23:57:26.814Z",
               "EditorCaption": ""
@@ -61,46 +99,48 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Teleport2.cs",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
               "RelativeToolTip": "Assets\\Shaders\\ShadersBackroom\\Teleport2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T19:26:07.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FPSCamera.cs",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Valen\\Player\\FPSCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Valen\\Player\\FPSCamera.cs",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Valen\\Player\\FPSCamera.cs",
-              "RelativeToolTip": "Assets\\Valen\\Player\\FPSCamera.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T17:14:07.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Teleport.cs",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Teleport.cs",
-              "RelativeDocumentMoniker": "Assets\\Teleport.cs",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Teleport.cs",
-              "RelativeToolTip": "Assets\\Teleport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T16:54:51.966Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "FPSCamera.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Valen\\Player\\FPSCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Valen\\Player\\FPSCamera.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Valen\\Player\\FPSCamera.cs",
+              "RelativeToolTip": "Assets\\Valen\\Player\\FPSCamera.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:14:07.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teleport.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Teleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Teleport.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Teleport.cs",
+              "RelativeToolTip": "Assets\\Teleport.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:54:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "InputPort.cs",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
               "RelativeDocumentMoniker": "Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
               "RelativeToolTip": "Assets\\AmplifyShaderEditor\\Plugins\\Editor\\Wires\\InputPort.cs",
               "ViewState": "AQIAAAsFAAAAAAAAAAAewBYFAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,23 +148,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BurnController.cs",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\BurnController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\BurnController.cs",
               "RelativeDocumentMoniker": "Assets\\BurnController.cs",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\BurnController.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\BurnController.cs",
               "RelativeToolTip": "Assets\\BurnController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T15:51:02.111Z"
+              "WhenOpened": "2025-06-26T15:51:02.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DistanceShader.shader",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
               "RelativeToolTip": "Assets\\Shaders\\ShadersBackroom\\PostProcesoDistancia\\DistanceShader.shader",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
@@ -132,11 +173,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "InvertNormals.cs",
-              "DocumentMoniker": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
               "RelativeDocumentMoniker": "Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
-              "ToolTip": "C:\\Proyectos De Unity\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Documentos\\GitHub\\ProgramacionGrafica\\Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
               "RelativeToolTip": "Assets\\Shaders\\ShadersBackroom\\InvertNormals.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

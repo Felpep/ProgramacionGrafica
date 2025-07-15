@@ -24,7 +24,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _TextureSample0:
-        m_Texture: {fileID: 2800000, guid: 4a1f1babf3a3e104d81ce3ada9aee559, type: 3}
+        m_Texture: {fileID: 2800000, guid: bf753d0843dacaf46be9149505e8643b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 721564c771c7fb54c8e8e357d2930bd8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -33,10 +37,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FallOff: 5
-    - _Range: 24.7
+    - _FallOff: 4.76
+    - _Range: 15
     - __dirty: 0
     m_Colors:
-    - _PlayerPos: {r: -316.1397, g: 1.0799999, b: 132.24396, a: 0}
+    - _Color0: {r: 0, g: 1, b: 0.010734558, a: 0}
+    - _PlayerPos: {r: 43.85737, g: 2.58, b: 46.620575, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

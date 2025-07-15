@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ceil
+  m_Shader: {fileID: 4800000, guid: c41a573d02624284ea5d5f7c110a43f1, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: e781607505ada31459bee6b20996e35e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap1:
+        m_Texture: {fileID: 2800000, guid: e781607505ada31459bee6b20996e35e, type: 3}
+        m_Scale: {x: 30, y: 30}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: e781607505ada31459bee6b20996e35e, type: 3}
+        m_Scale: {x: 30, y: 30}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Float0: 1.35
+    - _FrenelScale: 0.1
+    - _FrenelScale1: 0.1
+    - _FresnelPower: 0.7
+    - _FresnelPower1: 0.7
+    - _Step: 0.88
+    - _Step1: 0
+    - _Step2: 0.069964446
+    - _Step3: 0.1558506
+    - _Step4: 0.33
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 0.5660378, g: 0.44423217, b: 0, a: 0}
+    - _Fresnel: {r: 1, g: 1, b: 1, a: 0}
+    - _Fresnel1: {r: 1, g: 1, b: 1, a: 0}
+    - _Light: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 0}
+    - _Light1: {r: 1, g: 1, b: 1, a: 0}
+    - _Shadow: {r: 0.2641509, g: 0.2641509, b: 0.2641509, a: 0}
+    - _Shadow1: {r: 0.1320755, g: 0.1320755, b: 0.1320755, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
