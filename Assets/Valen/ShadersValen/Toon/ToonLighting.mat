@@ -51,7 +51,7 @@ Material:
     - _Step1: 0.308
     - _Step2: 0.237
     - _Step3: 0.171
-    - __dirty: 0
+    - __dirty: 1
     m_Colors:
     - _Color0: {r: 0.1958437, g: 0.21546811, b: 0.25471696, a: 0}
     - _Fresnel: {r: 1, g: 1, b: 1, a: 0}
