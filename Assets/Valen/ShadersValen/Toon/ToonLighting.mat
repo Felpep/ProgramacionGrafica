@@ -36,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample2:
-        m_Texture: {fileID: 2800000, guid: 0ea1aaae175dfd448934e18d9b58190a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 282a771c861a5d942b1b5032bd5e8c9e, type: 3}
         m_Scale: {x: 4, y: 4}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -45,15 +45,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FrenelScale: -30
-    - _FresnelPower: 20
-    - _NormalScale: 1
-    - _Step1: 0.308
-    - _Step2: 0.237
-    - _Step3: 0.171
-    - __dirty: 1
+    - _Float1: 0.95
+    - _FrenelScale: -8.249938
+    - _FresnelPower: 1.8422664
+    - _NormalScale: 0.858022
+    - _Step1: 0.04439503
+    - _Step2: 0.14039412
+    - _Step3: 0.055122994
+    - __dirty: 0
     m_Colors:
-    - _Color0: {r: 0.1958437, g: 0.21546811, b: 0.25471696, a: 0}
+    - _Color0: {r: 0.35849053, g: 0.35849053, b: 0.35849053, a: 0}
     - _Fresnel: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
